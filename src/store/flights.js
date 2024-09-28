@@ -9,7 +9,7 @@ export const flightsApi = createApi({
     prepareHeaders: (header) => {
       header.set(
         "x-rapidapi-key",
-        "5500f5719dmshc28d052195cfcf0p1f26f0jsn39cef294ce8d"
+        "022addd84emsh357be52740d83abp105b95jsn7d5d536dc3b7"
       );
       header.set("x-rapidapi-host", "sky-scrapper.p.rapidapi.com");
       return header;
